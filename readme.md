@@ -16,3 +16,6 @@
   
 ### Required Package
 discord、math、requests、bs4、datetime、typing、random、os、PIL、matplotlib.pyplot、skimage、re
+
+### 使用方式
+請參閱[此連結](https://hackmd.io/@bnCOpTWwRZ2THVyx87qBvQ/SJEZlEuO_#%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F)
